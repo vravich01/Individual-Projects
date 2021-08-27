@@ -1,3 +1,5 @@
+% This function is provided by Dr. Eric Hallman, from NCSU MA Department
+
 function [x_1,x_2] = myroots_acc(a,b,c)
 format long
 if b < 0
