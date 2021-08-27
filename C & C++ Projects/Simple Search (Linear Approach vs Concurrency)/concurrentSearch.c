@@ -6,6 +6,8 @@
 #include <string.h>
 #include <pthread.h>
 
+/** Problem prosposed by NCSU CSC Department */
+
 typedef struct thread_args {
     char * filename;
     char * target;
