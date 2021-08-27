@@ -1,3 +1,5 @@
+/** Header file is based on source code provided by NCSU CSC Department */
+
 /**
  * @brief Simulates a rider riding around in a car.
  * 
