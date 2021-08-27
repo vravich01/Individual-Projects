@@ -1,7 +1,7 @@
 # Individual-Projects
 ### Hi! This is the repo for individual projects relevant to my field of study: computer science and applied math.
 
-# Table of Contents...
+# Table of Contents
 ### C & C++ Projects:
 ##### Concurrent Processes & Multi-Threading Exercises: A set of small exercises that involve solving problems using concurrent programming.
 ### Java Projects:
