@@ -1,3 +1,5 @@
+% This function is provided by Dr. Eric Hallman, from NCSU MA Department
+
 function x = bisection(f,lo,hi)
     % Uses the bisection method to find a
     %  zero of the function f in the interval [lo,hi].
