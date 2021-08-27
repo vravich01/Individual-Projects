@@ -5,6 +5,8 @@
 #include <pthread.h>
 #include <semaphore.h>
 
+/** This code is based on a design provided by NCSU CSC Department */
+
 /** Contains simulateRider() */
 #include "rider.h"
 /** Contains Param struct, getInLine(), and returnCar() */
