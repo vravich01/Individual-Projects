@@ -1,3 +1,5 @@
+/** Header file is based on psuedocode provided by NCSU CSC Department */
+
 /**
  * @brief Simulates all operations performed by a rider, this includes:
  * waiting in line, riding around, returning a car, and walking around.
