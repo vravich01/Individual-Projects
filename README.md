@@ -3,7 +3,7 @@
 
 # Table of Contents
 ### C & C++ Projects:
-##### Concurrent Processes & Multi-Threading Exercises: A set of small exercises that involve solving problems using concurrent programming.
+##### Concurrent Processes & Multi-Threading Exercises: A set of small guided exercises that involve solving problems using concurrent programming.
 ### Java Projects:
 ##### Reversi AI (Work in Progress): Currently, just a command line copy of the game Reversi; later goals are to complete coding the game and begin training a CPU
 ### Matlab Projects:
