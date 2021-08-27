@@ -5,6 +5,8 @@
 #include <pthread.h>
 #include <semaphore.h>
 
+/** Psuedocode provided by NCSU CSC Department */
+
 /** Contains walkAroundTime() and rideTime() */
 #include "sleeper.h"
 /** Contains simulateRider */
