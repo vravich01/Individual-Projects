@@ -1,3 +1,5 @@
+/** Header file is based on a design provided by NCSU CSC Department */
+
 /** Initial value for nextCarIn, so the program can set this up the first time */
 #define INITIAL_VAL -1
 /** Special value for car buffer to indicate empty slot */
