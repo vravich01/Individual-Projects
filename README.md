@@ -5,7 +5,7 @@
 ### C & C++ Projects:
 ##### Concurrent Processes & Multi-Threading Exercises: A set of small exercises that involve solving problems using concurrent programming.
 ### Java Projects:
-##### (To be updated)
+##### Reversi AI (Work in Progress): Currently, just a command line copy of the game Reversi; goals to complete coding the game and begin training a CPU
 ### Matlab Projects:
 ##### Floating Point Arithmetic & Sensitivity Analysis: Explores the innacuracies of analytic solutions when using machine calculations..
 ##### Monte Carlo Methods: Explores the benefits of Monte Carlo estimation methods by attempting to numerically figure out the area of a heart shape.
