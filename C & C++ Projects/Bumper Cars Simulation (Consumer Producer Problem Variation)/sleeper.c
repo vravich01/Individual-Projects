@@ -5,6 +5,8 @@
 #include <pthread.h>
 #include <semaphore.h>
 
+/** Source code provided by NCSU CSC Department */
+
 /** Contains walkAroundTime() and rideTime() */
 #include "sleeper.h"
 /** Contains numThreadDigitCount as global variable to be externed into here */
