@@ -3,7 +3,7 @@
 
 # Table of Contents...
 ### C & C++ Projects:
-##### (To be updated)
+##### Concurrent Processes & Multi-Threading Exercises: A set of small exercises that involve solving problems using concurrent programming.
 ### Java Projects:
 ##### (To be updated)
 ### Matlab Projects:
