@@ -15,6 +15,8 @@
 
 #define PAD 2
 
+/** PSEUDOCODE PROVIDED BY NCSU CSC DEPARTMENT */
+
 
 /**
  * Struct that contains neccesary arguments for thread creation.
