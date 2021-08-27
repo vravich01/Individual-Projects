@@ -5,6 +5,8 @@
 #include <stdlib.h>
 #include <string.h>
 
+/** Problem proposed by NCSU CSC Department */
+
 int newlineCheck(FILE * input)
 {
     int ret = 0;
